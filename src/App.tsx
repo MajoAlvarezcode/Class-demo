@@ -12,6 +12,7 @@ const price2 = '$49.99';
 
 function App() {
 
+
   
 
   return (
